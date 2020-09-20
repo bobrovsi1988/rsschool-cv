@@ -30,3 +30,13 @@ Front-end developer JavaScript, React.
 
 ## Skills
 HTML , CSS, SASS, JS, REACT, PHP, YII, MYSQl.
+
+### GitHub
+https://github.com/bobrovsi1988/
+
+## Works
+https://github.com/bobrovsi1988/abhasia.git - freelance job
+https://github.com/bobrovsi1988/Game.git -test job from courses(uses drag and drop library and react) 
+https://github.com/bobrovsi1988/react-my-app.git -react test job
+## English level A2.
+
